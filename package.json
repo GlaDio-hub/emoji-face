@@ -1,0 +1,15 @@
+{
+  "name": "exercices",
+  "version": "1.0.0",
+  "description": "exercices de valentin en JS",
+  "main": "exercices.js",
+  "scripts": {
+    "start": "nodemon exercices.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "valentin.bord18@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
